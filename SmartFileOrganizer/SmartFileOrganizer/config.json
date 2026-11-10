@@ -1,0 +1,20 @@
+{
+    "theme": "dark",
+    "accent_color": "blue",
+    "default_directory": "",
+    "last_directory": "",
+    "remember_directory": true,
+    "include_hidden": false,
+    "recursive": false,
+    "ask_before_organize": true,
+    "auto_create_folders": true,
+    "categories": {
+        "Documents": [".pdf", ".doc", ".docx", ".txt", ".xls", ".xlsx", ".ppt", ".pptx", ".csv"],
+        "Images": [".jpg", ".jpeg", ".png", ".gif", ".bmp", ".svg", ".webp"],
+        "Videos": [".mp4", ".mkv", ".avi", ".mov", ".wmv"],
+        "Audio": [".mp3", ".wav", ".flac", ".aac", ".ogg"],
+        "Archives": [".zip", ".rar", ".7z", ".tar", ".gz"],
+        "Applications": [".exe", ".msi"],
+        "Others": []
+    }
+}
